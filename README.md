@@ -1,4 +1,4 @@
-# CNN-numpy
+# Convolutional Neural Network
 Implementation of a simple Convolutional Neural Network in NumPy as a project for the course Visual Intelligence
 
 The notebook CNNs.ipynb goes through the forward pass and backward propagation of the network, and is structured as a learning example in which certain problems are to be solved, and are presented and followed by their solutions. This notebook also contains extensive documentation and visualization of the different output of layers. 
